@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="41" lang="en-gb" xmlns="http://www.npia.police.uk/cm09/npt">
+
+	<name>Hertfordshire Police</name>
+	<url>https://www.herts.police.uk</url>
+
+	<engagement-methods>
+		<method type='facebook'>
+			<url>https://www.facebook.com/hertspolice</url>
+		</method>
+		<method type='twitter'>
+			<url>https://twitter.com/HertsPolice</url>
+		</method>
+	</engagement-methods>
+
+	<senior-officers>
+		<member>
+			<name>Frank Whitely</name>
+			<rank>Chief Constable</rank>
+			<contact-details>
+				<contact type="telephone">0845 6060247</contact>
+				<contact type="email">frank@herts.police.uk</contact>
+			</contact-details>
+			<bio>Frank has served the policing community for 30 years</bio>
+			<photo-url>http://www.herts.police.uk/cc.png</photo-url>
+		</member>
+	</senior-officers>
+
+	<teams>
+		<team id="E03">
+			<name>Hitchin Priory</name>
+			<site-url>http://www.herts.police.uk/npt/hitchin-priory</site-url>
+			<description>Hitchin Priory team cover the Town Centre and</description>
+			<location type="station">
+				<name>Belmont Police Station</name>
+				<address>Goodrich Grove, Hitchin</address>
+				<description>Belmont Police Station is open 9-5 every day.</description>
+				<postcode>SG4 9SU</postcode>
+				<latitude>52.000</latitude>
+				<longitude>-1.000</longitude>
+			</location>
+
+			<contact-details>
+				<contact type="email">hitchin-priory-npt@herts.pnn.police.uk</contact>
+				<contact type="telephone">0845 6060247</contact>
+				<contact type="fax">0845 6045247</contact>
+				<contact type="mobile">07708 812453</contact>
+				<contact type="facebook">https://www.facebook.com/hitchinhertspolice</contact>
+				<contact type="twitter">https://www.twitter.com/hertspolice</contact>
+			</contact-details>
+
+			<members>
+				<member id="1235">
+					<name>Pauline Bayliss</name>
+					<rank>PC</rank>
+					<contact-details>
+						<contact type="email">hitchin-priory-npt@herts.pnn.police.uk</contact>
+						<contact type="telephone">0845 6060247</contact>
+						<contact type="fax">0845 6045247</contact>
+						<contact type="web">https://www.mysite.com</contact>
+						<contact type="address">11 Hight Street</contact>
+						<contact type="mobile">07708 812453</contact>
+						<contact type="facebook">https://www.facebook.com/hitchinhertspolice</contact>
+						<contact type="twitter">https://www.twitter.com/hertspolice</contact>
+					</contact-details>
+					<bio>Ive worked in Hitchin for 3 years in a variety of roles</bio>
+					<photo-url>https://www.herts.police.uk/images/staff/1235.jpg</photo-url>
+				</member>
+			</members>
+
+			<priorities>
+				<priority>
+					<suggestion>Clamping down on shoplifting in the town center</suggestion>
+					<suggestion-date>2009-07-01</suggestion-date>
+					<issue>Retail theft at the Co-op store in Fleming Crescent</issue>
+					<issue-date>2009-07-05</issue-date>
+					<action>PC Helen Hart has been working closely with staff</action>
+					<action-date>2009-07-21</action-date>
+				</priority>
+			</priorities>
+
+			<events>
+				<event type="meeting">
+					<title>Priory Estate Community Group</title>
+					<description>To discuss issues on the estate</description>
+					<start-date>2009-07-30T18:00:00</start-date>
+					<end-date>2009-07-30T20:00:00</end-date>
+					<location>
+						<address>The Community Centre, High Road, Priory Estate</address>
+						<postcode>SG4 6GH</postcode>
+						<latitude>52.000</latitude>
+						<longitude>-1.000</longitude>
+					</location>
+					<contact-details>
+						<contact type="email">hitchin-priory-npt@herts.pnn.police.uk</contact>
+						<contact type="telephone">0845 6060247</contact>
+					</contact-details>
+				</event>
+			</events>
+
+			<links>
+				<link>
+					<title>North Herts District Council</title>
+					<description>Information about local services</description>
+					<url>https://www.nhdc.gov.uk</url>
+				</link>
+			</links>
+
+		</team>
+	</teams>
+</force>
